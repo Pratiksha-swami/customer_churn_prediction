@@ -15,8 +15,19 @@ A modern desktop application built with **Python, CustomTkinter, and XGBoost** t
 
 ## Screenshots
 
+## Screenshots
 
-> Add screenshots of your Dashboard, Prediction page, and EDA page here.
+### Dashboard
+
+![Dashboard](images_ui/Dashboard.png)
+
+### Churn Prediction
+
+![Churn Prediction](images_ui/Prediction.png)
+
+### EDA Explorer
+
+![EDA Explorer](images_ui/EDA.png)
 
 ## Tech Stack
 
